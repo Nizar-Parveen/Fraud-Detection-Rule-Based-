@@ -40,16 +40,17 @@ Each rule generates a **flag (0 or 1)**.
 
 ---
 
-## 🧮 Fraud Logic
-```text
-Fraud Score = Sum of all rule flags
-If Fraud Score ≥ 2 → Marked as Fraud
+### 🧮 Fraud Logic
+
+Fraud Score = Sum of all rule flags  
+If Fraud Score ≥ 2 → Marked as Fraud  
 
 ---
 
 ## 📊 Outcome
+
 - Identified suspicious transactions using rule-based logic
 - Generated fraud scores and fraud flags
 - Stored results in SQL database
 - Fraud summary and transaction-level analysis ready for dashboard creation
----
+
