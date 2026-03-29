@@ -1,7 +1,7 @@
 # Fraud-Detection-Rule-Based-
-Identify suspicious transactions using rule-based logic (Python + NumPy + SQL + Matplotlib)
+Identify suspicious transactions using rule-based logic (Python + Pandas + NumPy + SQL + Matplotlib)
 
-# Fraud Detection – Rule Based System (Python + NumPy + SQL + Matplotlib)
+# Fraud Detection – Rule Based System (Python + Pandas + NumPy + SQL + Matplotlib)
 
 ## 📌 Project Overview
 This project demonstrates a **rule-based fraud detection system** similar to what is used in real-world banking and payment systems.
